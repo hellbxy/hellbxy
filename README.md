@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/h3llbxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h3llbxy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kusal isiwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kusal isiwara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kusal-isiwara-740aaa1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kusal isiwara" height="30" width="40" /></a>
 <a href="https://fb.com/kusal.isiwara.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kusal.isiwara.5" height="30" width="40" /></a>
 <a href="https://instagram.com/___hellbxy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___hellbxy___" height="30" width="40" /></a>
 </p>
